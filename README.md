@@ -10,6 +10,9 @@ Python 3.x
 Клонируйте этот репозиторий на ваш локальный компьютер:
 
 git clone https://github.com/DenisLet/test_task_two.git
+
+и перейдите в директорию
+
 cd test_task_two
 
 2//Создание токена GitHub API
